@@ -16,6 +16,10 @@ This report aimed to create a comprehensive business performance analysis, focus
 The report analyzed data from 2013 to 2014 and compared Q4 results between both years. Additionally, it identified the key drivers of business performance, highlighted underperforming products, and provided recommendations to optimize profitability and strategic decision-making.
 The key metrics include number of sales, sales proportion, financial performance, sales trends, and tax reports.
 
+![PowerBI pics1](https://github.com/user-attachments/assets/20235ef5-732e-4d48-a8fd-ab43aa4c5651)
+
+![PowerBI pics2](https://github.com/user-attachments/assets/7bc69734-f63a-4c6a-a814-1925fa7d2931)
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "office_supply.csv"file, containing detailed information about each sale made by the company.
